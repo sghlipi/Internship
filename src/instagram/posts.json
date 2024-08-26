@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+      "caption": "Enjoying a beautiful sunset! #sunset #nature #photography",
+      "reactions": {
+        "likes": 1245,
+        "comments": 56,
+        "shares": 23
+      },
+      "views": 3500,
+      "author": {
+        "name": "John Doe",
+        "profile_image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2"
+      },
+      "date": "2024-07-25T18:30:00Z"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1551024506-0bccd828d307",
+      "caption": "Delicious homemade pasta! #food #pasta #homemade",
+      "reactions": {
+        "likes": 980,
+        "comments": 42,
+        "shares": 12
+      },
+      "views": 2400,
+      "author": {
+        "name": "Jane Smith",
+        "profile_image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb"
+      },
+      "date": "2024-07-24T12:15:00Z"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+      "caption": "Hiking adventures in the mountains! #hiking #adventure #mountains",
+      "reactions": {
+        "likes": 1750,
+        "comments": 78,
+        "shares": 35
+      },
+      "views": 4200,
+      "author": {
+        "name": "Alex Johnson",
+        "profile_image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e"
+      },
+      "date": "2024-07-23T08:45:00Z"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+      "caption": "Coffee time! #coffee #morning #cafe",
+      "reactions": {
+        "likes": 870,
+        "comments": 35,
+        "shares": 9
+      },
+      "views": 1800,
+      "author": {
+        "name": "Emily Brown",
+        "profile_image": "https://images.unsplash.com/photo-1502685104226-ee32379fefbe"
+      },
+      "date": "2024-07-22T09:30:00Z"
+    }
+  ]
+}

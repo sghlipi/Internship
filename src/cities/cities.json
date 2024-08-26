@@ -1,0 +1,31 @@
+{
+    "citiesOfNepal" : [
+        "Biratnagar", "Itahari", "Dharan", "Damak", "Birtamod", "Inaruwa",
+        "Dhankuta", "Rajbiraj", "Triyuga", "Ilam", "Mechinagar", "Khandbari",
+        "Letang", "Urlabari", "Lahan", "Siraha",
+        
+        "Janakpur", "Birgunj", "Kalaiya", "Gaur", "Rajbiraj", "Lahan",
+        "Malangawa", "Jaleshwar", "Dhanusha", "Siraha", "Mahottari", "Sarlahi",
+        
+        "Kathmandu", "Lalitpur", "Bhaktapur", "Hetauda", "Bharatpur",
+        "Banepa", "Dhulikhel", "Panauti", "Kirtipur", "Madhyapur Thimi",
+        "Dhading", "Bidur", "Trishuli", "Ramechhap", "Sindhuli", "Dolakha",
+        
+        "Pokhara", "Baglung", "Beni", "Gorkha", "Putalibazar", "Waling",
+        "Tansen", "Bhimad", "Byas", "Lekhnath", "Parbat", "Lamjung",
+        "Syangja", "Nawalpur", "Chame (Manang)",
+        
+        "Butwal", "Siddharthanagar (Bhairahawa)", "Tulsipur", "Ghorahi",
+        "Kapilvastu", "Nepalgunj", "Kohalpur", "Dang", "Pyuthan", "Lamahi",
+        "Gulmi", "Palpa", "Arghakhanchi",
+        
+        "Birendranagar", "Jumla", "Kalikot", "Jajarkot", "Manma",
+        "Dailekh", "Rukumkot", "Musikot", "Chaurjahari", "Dolpa", "Simikot",
+        "Gamgadhi", "Khajura", "Surkhet",
+        
+        "Dhangadhi", "Mahendranagar (Kanchanpur)", "Tikapur", "Dipayal-Silgadhi",
+        "Amargadhi", "Dadeldhura", "Bhimdatta", "Bajura", "Bajhang", "Baitadi",
+        "Doti", "Achham"
+    ]
+    
+}

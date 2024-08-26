@@ -1,0 +1,55 @@
+{"vehicleData":[
+    {
+        "id": 1,
+        "type": "SUV"
+    },
+    {
+        "id": 2,
+        "type": "Sedan"
+    },
+    {
+        "id": 3,
+        "type": "Hatchback"
+    },
+    {
+        "id": 4,
+        "type": "Van"
+    },
+    {
+        "id": 5,
+        "type": "Jeep"
+    },
+    {
+        "id": 9,
+        "type": "Minivan"
+    },
+    {
+        "id": 12,
+        "type": "Electric Car"
+    },
+    {
+        "id": 13,
+        "type": "Hybrid"
+    },
+    {
+        "id": 14,
+        "type": "Luxury Car"
+    },
+    {
+        "id": 15,
+        "type": "Off-road Vehicle"
+    },
+    {
+        "id": 16,
+        "type": "Sports Car"
+    },
+    {
+        "id": 17,
+        "type": "Wagon"
+    },
+    {
+        "id": 18,
+        "type": "Bus"
+    }
+  
+]}

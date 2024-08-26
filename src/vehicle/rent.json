@@ -1,0 +1,233 @@
+{"rentData":[
+    {
+        "pickUpLocation": "Kathmandu",
+        "dropOffLocation": "Pokhara",
+        "pickUpDate": "2024-08-01",
+        "dropOffDate": "2024-08-05",
+        "vehicleNumber": "BAA-1234",
+        "vehicleType": "SUV",
+        "seats": 5,
+        "amenities": ["Air Conditioning", "GPS", "Bluetooth", "USB Charging Ports"],
+        "price": 5000
+    },
+    {
+        "pickUpLocation": "Biratnagar",
+        "dropOffLocation": "Janakpur",
+        "pickUpDate": "2024-08-03",
+        "dropOffDate": "2024-08-04",
+        "vehicleNumber": "BPR-5678",
+        "vehicleType": "Sedan",
+        "seats": 4,
+        "amenities": ["Air Conditioning", "FM Radio", "Aux Input"],
+        "price": 3500
+    },
+    {
+        "pickUpLocation": "Chitwan",
+        "dropOffLocation": "Lumbini",
+        "pickUpDate": "2024-08-10",
+        "dropOffDate": "2024-08-12",
+        "vehicleNumber": "CHA-9101",
+        "vehicleType": "Van",
+        "seats": 7,
+        "amenities": ["Air Conditioning", "TV", "DVD Player", "Refrigerator"],
+        "price": 7000
+    },
+    {
+        "pickUpLocation": "Dhangadhi",
+        "dropOffLocation": "Nepalgunj",
+        "pickUpDate": "2024-08-15",
+        "dropOffDate": "2024-08-16",
+        "vehicleNumber": "DHA-1213",
+        "vehicleType": "Jeep",
+        "seats": 6,
+        "amenities": ["Air Conditioning", "Bluetooth", "USB Charging Ports", "Off-road Tires"],
+        "price": 6000
+    },
+    {
+        "pickUpLocation": "Birgunj",
+        "dropOffLocation": "Hetauda",
+        "pickUpDate": "2024-08-20",
+        "dropOffDate": "2024-08-21",
+        "vehicleNumber": "BIR-1415",
+        "vehicleType": "Hatchback",
+        "seats": 4,
+        "amenities": ["Air Conditioning", "FM Radio", "Bluetooth"],
+        "price": 3000
+    },
+    {
+        "pickUpLocation": "Lalitpur",
+        "dropOffLocation": "Bhaktapur",
+        "pickUpDate": "2024-08-22",
+        "dropOffDate": "2024-08-23",
+        "vehicleNumber": "LAL-1617",
+        "vehicleType": "SUV",
+        "seats": 5,
+        "amenities": ["Air Conditioning", "GPS", "Leather Seats", "Sunroof"],
+        "price": 5500
+    },
+    {
+        "pickUpLocation": "Butwal",
+        "dropOffLocation": "Palpa",
+        "pickUpDate": "2024-08-24",
+        "dropOffDate": "2024-08-25",
+        "vehicleNumber": "BWT-1819",
+        "vehicleType": "Sedan",
+        "seats": 4,
+        "amenities": ["Air Conditioning", "Bluetooth", "USB Charging Ports"],
+        "price": 3200
+    },
+    {
+        "pickUpLocation": "Gorkha",
+        "dropOffLocation": "Manakamana",
+        "pickUpDate": "2024-08-26",
+        "dropOffDate": "2024-08-27",
+        "vehicleNumber": "GRK-2021",
+        "vehicleType": "Jeep",
+        "seats": 6,
+        "amenities": ["Air Conditioning", "GPS", "Off-road Tires"],
+        "price": 6200
+    },
+    {
+        "pickUpLocation": "Dharan",
+        "dropOffLocation": "Dhankuta",
+        "pickUpDate": "2024-08-28",
+        "dropOffDate": "2024-08-29",
+        "vehicleNumber": "DHR-2223",
+        "vehicleType": "Hatchback",
+        "seats": 4,
+        "amenities": ["Air Conditioning", "FM Radio"],
+        "price": 2800
+    },
+    {
+        "pickUpLocation": "Bharatpur",
+        "dropOffLocation": "Sauraha",
+        "pickUpDate": "2024-08-30",
+        "dropOffDate": "2024-08-31",
+        "vehicleNumber": "BHR-2425",
+        "vehicleType": "Van",
+        "seats": 8,
+        "amenities": ["Air Conditioning", "Bluetooth", "TV"],
+        "price": 7500
+    },
+    {
+        "pickUpLocation": "Pokhara",
+        "dropOffLocation": "Jomsom",
+        "pickUpDate": "2024-09-01",
+        "dropOffDate": "2024-09-05",
+        "vehicleNumber": "PKR-2627",
+        "vehicleType": "SUV",
+        "seats": 5,
+        "amenities": ["Air Conditioning", "GPS", "Off-road Tires"],
+        "price": 8000
+    },
+    {
+        "pickUpLocation": "Mahendranagar",
+        "dropOffLocation": "Dhangadhi",
+        "pickUpDate": "2024-09-06",
+        "dropOffDate": "2024-09-07",
+        "vehicleNumber": "MHN-2829",
+        "vehicleType": "Sedan",
+        "seats": 4,
+        "amenities": ["Air Conditioning", "Bluetooth", "USB Charging Ports"],
+        "price": 3400
+    },
+    {
+        "pickUpLocation": "Janakpur",
+        "dropOffLocation": "Biratnagar",
+        "pickUpDate": "2024-09-08",
+        "dropOffDate": "2024-09-09",
+        "vehicleNumber": "JNP-3031",
+        "vehicleType": "Jeep",
+        "seats": 6,
+        "amenities": ["Air Conditioning", "GPS", "Leather Seats"],
+        "price": 6000
+    },
+    {
+        "pickUpLocation": "Bardibas",
+        "dropOffLocation": "Sindhuli",
+        "pickUpDate": "2024-09-10",
+        "dropOffDate": "2024-09-11",
+        "vehicleNumber": "BRD-3233",
+        "vehicleType": "Hatchback",
+        "seats": 4,
+        "amenities": ["Air Conditioning", "FM Radio"],
+        "price": 2900
+    },
+    {
+        "pickUpLocation": "Lamahi",
+        "dropOffLocation": "Ghorahi",
+        "pickUpDate": "2024-09-12",
+        "dropOffDate": "2024-09-13",
+        "vehicleNumber": "LAM-3435",
+        "vehicleType": "Van",
+        "seats": 7,
+        "amenities": ["Air Conditioning", "Bluetooth", "DVD Player"],
+        "price": 6800
+    },
+    {
+        "pickUpLocation": "Jumla",
+        "dropOffLocation": "Surkhet",
+        "pickUpDate": "2024-09-14",
+        "dropOffDate": "2024-09-15",
+        "vehicleNumber": "JUM-3637",
+        "vehicleType": "SUV",
+        "seats": 5,
+        "amenities": ["Air Conditioning", "GPS", "Off-road Tires"],
+        "price": 7500
+    },
+    {
+        "pickUpLocation": "Doti",
+        "dropOffLocation": "Dadeldhura",
+        "pickUpDate": "2024-09-16",
+        "dropOffDate": "2024-09-17",
+        "vehicleNumber": "DOT-3839",
+        "vehicleType": "Sedan",
+        "seats": 4,
+        "amenities": ["Air Conditioning", "FM Radio", "Aux Input"],
+        "price": 3100
+    },
+    {
+        "pickUpLocation": "Dhading",
+        "dropOffLocation": "Gorkha",
+        "pickUpDate": "2024-09-18",
+        "dropOffDate": "2024-09-19",
+        "vehicleNumber": "DHD-4041",
+        "vehicleType": "Jeep",
+        "seats": 6,
+        "amenities": ["Air Conditioning", "Bluetooth", "Off-road Tires"],
+        "price": 6400
+    },
+    {
+        "pickUpLocation": "Ramechhap",
+        "dropOffLocation": "Jiri",
+        "pickUpDate": "2024-09-20",
+        "dropOffDate": "2024-09-21",
+        "vehicleNumber": "RAM-4243",
+        "vehicleType": "Hatchback",
+        "seats": 4,
+        "amenities": ["Air Conditioning", "FM Radio"],
+        "price": 2700
+    },
+    {
+        "pickUpLocation": "Siddharthanagar",
+        "dropOffLocation": "Lumbini",
+        "pickUpDate": "2024-09-22",
+        "dropOffDate": "2024-09-23",
+        "vehicleNumber": "SID-4445",
+        "vehicleType": "Van",
+        "seats": 8,
+        "amenities": ["Air Conditioning", "Bluetooth", "TV"],
+        "price": 7200
+    },
+    {
+        "pickUpLocation": "Syangja",
+        "dropOffLocation": "Pokhara",
+        "pickUpDate": "2024-09-24",
+        "dropOffDate": "2024-09-25",
+        "vehicleNumber": "SYN-4647",
+        "vehicleType": "SUV",
+        "seats": 5,
+        "amenities": ["Air Conditioning", "GPS", "Leather Seats"],
+        "price": 5900
+    }
+]}
